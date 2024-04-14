@@ -1,0 +1,43 @@
+{
+  "layers": [
+    {
+      "name": "0_background",
+      "values": ["background_1", "background_2", "background_3", "background_4", "background_5", "background_6", "background_7", "background_8"],
+      "trait_path": "/Users/sam/Projects/Crypto/GitHub/nft-generator-py/test_images/0_background",
+      "filename": ["background_1", "background_2", "background_3", "background_4", "background_5", "background_6", "background_7", "background_8"],
+      "weights": [12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5]
+    },
+    {
+      "name": "1_face",
+      "values": ["face_7", "face_6", "face_4", "face_5", "face_1", "face_2", "face_3", "face_8"],
+      "trait_path": "/Users/sam/Projects/Crypto/GitHub/nft-generator-py/test_images/1_face",
+      "filename": ["face_7", "face_6", "face_4", "face_5", "face_1", "face_2", "face_3", "face_8"],
+      "weights": [12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5]
+    },
+    {
+      "name": "2_eye",
+      "values": ["eye_5", "eye_4", "eye_6", "eye_7", "eye_3", "eye_2", "eye_1", "eye_8"],
+      "trait_path": "/Users/sam/Projects/Crypto/GitHub/nft-generator-py/test_images/2_eye",
+      "filename": ["eye_5", "eye_4", "eye_6", "eye_7", "eye_3", "eye_2", "eye_1", "eye_8"],
+      "weights": [12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5]
+    },
+    {
+      "name": "3_hair",
+      "values": ["hair_1", "hair_2", "hair_3", "hair_7", "hair_6", "hair_4", "hair_5", "hair_8"],
+      "trait_path": "/Users/sam/Projects/Crypto/GitHub/nft-generator-py/test_images/3_hair",
+      "filename": ["hair_1", "hair_2", "hair_3", "hair_7", "hair_6", "hair_4", "hair_5", "hair_8"],
+      "weights": [12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5]
+    },
+    {
+      "name": "4_accessory",
+      "values": ["acc_6", "acc_7", "acc_5", "acc_4", "acc_1", "acc_3", "acc_2", "acc_8"],
+      "trait_path": "/Users/sam/Projects/Crypto/GitHub/nft-generator-py/test_images/4_accessory",
+      "filename": ["acc_6", "acc_7", "acc_5", "acc_4", "acc_1", "acc_3", "acc_2", "acc_8"],
+      "weights": [12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5, 12.5]
+    }
+  ],
+  "incompatibilities": [],
+  "baseURI": ".",
+  "name": "NFT #",
+  "description": "This is a description for this NFT series."
+}

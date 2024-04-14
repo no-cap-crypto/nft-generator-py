@@ -1,0 +1,28 @@
+{
+    "token_id": 9,
+    "image": "generated_images//images/9.png",
+    "name": "NFT #09",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "0_background",
+            "value": "background_5"
+        },
+        {
+            "trait_type": "1_face",
+            "value": "face_3"
+        },
+        {
+            "trait_type": "2_eye",
+            "value": "eye_2"
+        },
+        {
+            "trait_type": "3_hair",
+            "value": "hair_7"
+        },
+        {
+            "trait_type": "4_accessory",
+            "value": "acc_2"
+        }
+    ]
+}

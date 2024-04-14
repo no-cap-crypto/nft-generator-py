@@ -77,3 +77,5 @@ elif args["command"] == "build_config":
         raise ValueError("No trait directory was provided.")
 
     generate_config(args["trait_dir"], args["output"], args["verbose"])
+    
+#Console: %run main.py generate --config test_config.json --output generated_images/ --amount 10 --verbose --seed 12345

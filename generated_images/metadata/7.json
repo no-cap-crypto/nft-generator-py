@@ -1,0 +1,28 @@
+{
+    "token_id": 7,
+    "image": "generated_images//images/7.png",
+    "name": "NFT #07",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "0_background",
+            "value": "background_3"
+        },
+        {
+            "trait_type": "1_face",
+            "value": "face_1"
+        },
+        {
+            "trait_type": "2_eye",
+            "value": "eye_7"
+        },
+        {
+            "trait_type": "3_hair",
+            "value": "hair_4"
+        },
+        {
+            "trait_type": "4_accessory",
+            "value": "acc_6"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "token_id": 0,
+    "image": "generated_images//images/0.png",
+    "name": "NFT #00",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "0_background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "1_face",
+            "value": "face_5"
+        },
+        {
+            "trait_type": "2_eye",
+            "value": "eye_6"
+        },
+        {
+            "trait_type": "3_hair",
+            "value": "hair_1"
+        },
+        {
+            "trait_type": "4_accessory",
+            "value": "acc_6"
+        }
+    ]
+}

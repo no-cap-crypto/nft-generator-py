@@ -1,0 +1,6 @@
+amount = 10
+seed = 12345
+start_at = 0
+output = generated_images/
+allow_duplicates = False
+no_pad = False
